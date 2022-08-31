@@ -50,19 +50,7 @@ Script
 python tools/train_lanenet_tusimple.py 
 ```
 
-## Experiment
-The accuracy during training process rises as follows: 
-![Training accuracy](./data/source_image/accuracy.png)
-
-## Recently updates 2018.11.10
-Adjust some basic cnn op according to the new tensorflow api. Use the 
-traditional SGD optimizer to optimize the whole model instead of the
-origin Adam optimizer used in the origin paper. I have found that the
-SGD optimizer will lead to more stable training process and will not 
-easily stuck into nan loss which may often happen when using the origin
-code.
-
-## Recently updates 2018.12.13
+### Generate from Tusimple
 Generate the training samples from Tusimple dataset. 
 Download the Tusimple dataset and unzip the  file to your local disk. Then run the following command to generate the 
 training samples and the train.txt file.
