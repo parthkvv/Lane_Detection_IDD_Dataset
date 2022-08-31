@@ -1,0 +1,1 @@
+--weights_path E:\Abhishek\Lane_Detection\CULane\parth\LaneNet\lanenet-lane-detection-master\model\tusimple_lanenet\tusimple_lanenet.ckpt  --image_path ./data/image/201_frame2819_leftImg8bit.jpg

@@ -1,0 +1,2 @@
+--weights_path E:\Abhishek\Lane_Detection\CULane\parth\LaneNet\lanenet-lane-detection-master\model\tusimple\bisenetv2_lanenet\tusimple_train_miou=0.5029.ckpt-64  
+--image_path ./data/image/201_frame2819_leftImg8bit.jpg
