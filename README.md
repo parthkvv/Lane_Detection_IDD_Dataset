@@ -63,7 +63,7 @@ The script will make the train folder and the test folder. The training
 samples of origin rgb image, binary label image, instance label image will
 be automatically generated in the training/gt_image, training/gt_binary_image,
 training/gt_instance_image folder.
-![scnnroad](https:![binary_output_final](https://user-images.githubusercontent.com/56112545/189867997-dc5b61f5-62f0-4dec-abc7-c2d2d4ba32cf.jpg)
-//user-images.githubusercontent.com/56112545/189867978-2d9d733c-d91d-4d54-ad39-b392e366eec9.jpg)
 
 
+![scnnroad](https://user-images.githubusercontent.com/56112545/189868203-7cd4a737-6d6f-41cf-a75d-31f543ae75a0.jpg)
+![binary_output_final](https://user-images.githubusercontent.com/56112545/189868231-304cd005-1697-447c-b311-133377fed8d1.jpg)
